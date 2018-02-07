@@ -1,5 +1,5 @@
 # Scope Fall 2017: React Native
-Hub for the Fal 2017 curriculum.
+Hub for the Fall 2017 curriculum.
 
 ## Curriculum Outline
 * Lesson 0: React Native Set Up
